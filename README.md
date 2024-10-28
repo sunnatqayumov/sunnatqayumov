@@ -1,6 +1,6 @@
 ## Hi there  I'm Sunnat👋
 
-> My name is Sunnat. I am a becend Developer, I want to learn new technologies and solving problems.
+> My name is Sunnat. I am a backend Developer, I want to learn new technologies and solving problems.
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&Color=White)](https://dev.to/sunnat_qayumov)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=White)](https://Sunnat_Qayumov)
