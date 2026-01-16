@@ -7,6 +7,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=White)](https://1_Sunnat_Qayumov)
 
 # 📄Me now
-- 🎓 I'm student in University of Business and Science.
-
-https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake-dark.svg
+- 🎓 I'm student in University of Business and Science
