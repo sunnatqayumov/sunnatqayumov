@@ -9,6 +9,4 @@
 # 📄Me now
 - 🎓 I'm student in University of Business and Science
 
-## 📊 Github Contribution Snake
-
 ![Contribution Snake](https://raw.githubusercontent.com/michael-abdul/michael-abdul/output/github-contribution-grid-snake-dark.svg)
