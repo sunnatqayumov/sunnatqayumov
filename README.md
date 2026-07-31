@@ -2,10 +2,13 @@
 <h3 align="center">Backend Developer | C# / .NET | Passionate about solving problems</h3>
  
 <p align="center">
+ <a href="https://www.linkedin.com/in/sunnat-qayumov-134352333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://t.me/KayumovSunnat">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://instagram.com/1_Sunnat_Qayumov">
+  <a href="https://www.instagram.com/kayumov__sunnat/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -74,6 +77,7 @@ public class Sunnat : BackendDeveloper
  
 <p align="center">
   <a href="https://t.me/KayumovSunnat">Telegram</a> ·
+  <a href="https://www.linkedin.com/in/sunnat-qayumov-134352333/">LinkedIn</a> ·
   <a href="https://instagram.com/1_Sunnat_Qayumov">Instagram</a>
 </p>
 <p align="center"><i>"Writing code is an art, solving problems is a science." 🚀</i></p>
