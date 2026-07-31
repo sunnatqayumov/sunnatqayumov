@@ -1,10 +1,7 @@
-<h1 align="center">Assalomu alaykum, men Sunnat 👋</h1>
-<h3 align="center">Backend Developer | C# / .NET | Muammo yechishni yaxshi ko'raman</h3>
+<h1 align="center">Hi there, I'm Sunnat 👋</h1>
+<h3 align="center">Backend Developer | C# / .NET | Passionate about solving problems</h3>
  
 <p align="center">
-  <a href="https://dev.to/sunnat_qayumov">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
   <a href="https://t.me/KayumovSunnat">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
@@ -14,7 +11,7 @@
 </p>
 ---
  
-### 🧑‍💻 Men haqimda
+### 🧑‍💻 About Me
  
 ```csharp
 public class Sunnat : BackendDeveloper
@@ -22,17 +19,17 @@ public class Sunnat : BackendDeveloper
     public string FullName => "Sunnat Qayumov";
     public string University => "University of Business and Science";
     public string Role => "Backend Developer (C# / .NET)";
-    public string[] Interests => { "Yangi texnologiyalarni o'rganish", "Murakkab muammolarni yechish", "Clean Architecture" };
+    public string[] Interests => { "Learning new technologies", "Solving complex problems", "Clean Architecture" };
  
-    public override string ToString() => "Har doim yangi narsa o'rganishga tayyorman 🚀";
+    public override string ToString() => "Always ready to learn something new 🚀";
 }
 ```
  
-- 🎓 **University of Business and Science** talabasiman
-- 💼 Backend yo'nalishida **C# / .NET** texnologiyalari bilan ishlayman
-- 🌱 Hozirda **mikroservislar**, **Clean Architecture** va **Design Pattern**larni chuqurroq o'rganyapman
-- 🎯 Maqsad — real loyihalarda tajriba orttirib, **Senior Backend Developer** darajasiga yetish
-- 💬 Menga **.NET**, **SQL**, **System Design** haqida savol berishingiz mumkin
+- 🎓 Student at **University of Business and Science**
+- 💼 Working as a backend developer with **C# / .NET** technologies
+- 🌱 Currently diving deeper into **microservices**, **Clean Architecture**, and **design patterns**
+- 🎯 Goal — gain real-world project experience and grow into a **Senior Backend Developer**
+- 💬 Feel free to ask me about **.NET**, **SQL**, or **System Design**
 ---
  
 ### 🛠️ Tech Stack
@@ -55,7 +52,7 @@ public class Sunnat : BackendDeveloper
 </p>
 ---
  
-### 📊 GitHub statistikam
+### 📊 GitHub Stats
  
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sunnatqayumov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -73,10 +70,10 @@ public class Sunnat : BackendDeveloper
 </p>
 ---
  
-### 🤝 Bog'lanish
+### 🤝 Connect with Me
  
 <p align="center">
   <a href="https://t.me/KayumovSunnat">Telegram</a> ·
   <a href="https://instagram.com/1_Sunnat_Qayumov">Instagram</a>
 </p>
-<p align="center"><i>“Kod yozish — bu san'at, muammoni yechish esa fandir.” 🚀</i></p>
+<p align="center"><i>"Writing code is an art, solving problems is a science." 🚀</i></p>
