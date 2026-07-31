@@ -19,7 +19,7 @@
 ```csharp
 public class Sunnat : BackendDeveloper
 {
-    public string FullName => "Sunnat Kayumov";
+    public string FullName => "Sunnatxo'ja Kayumov";
     public string University => "University of Business and Science";
     public string Role => "Backend Developer (C# / .NET)";
     public string[] Interests => { "Learning new technologies", "Solving complex problems", "Clean Architecture" };
